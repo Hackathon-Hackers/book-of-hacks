@@ -19,6 +19,7 @@ Slides: https://slides.com/victorlourng/portable-shower/
 
 **Cost**: Under $80
 
+**Materials**:
 * Tarp
 * Hot glue
 * Portable piping
