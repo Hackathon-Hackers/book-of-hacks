@@ -1,4 +1,4 @@
-# book-of-hacks
+# Book of Hacks
 The ultimate book of tutorials based on hackathon projects (Suggested by @jonmarkgo)
 
 # Structure
