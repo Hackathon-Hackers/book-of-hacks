@@ -2,7 +2,7 @@
 
 Have you ever been to a hackathon and felt dirty? Well, we have the solution for you!
 
-Built at DragonHacks Spring 2015. 
+Built at **DragonHacks Spring 2015**. 
 
 ![](http://i.imgur.com/lBxorYn.png)
 
@@ -15,9 +15,9 @@ Slides: https://slides.com/victorlourng/portable-shower/
 
 ## What you’ll need
 
-Time: 4-12 hours
+**Time**: 4-12 hours
 
-Cost: Under $80
+**Cost**: Under $80
 
 * Tarp
 * Hot glue
