@@ -6,5 +6,7 @@ Each tutorial should have its own markdown file under the ```tutorials``` folder
 
 Please follow a format similar to the Portable Shower example and clone it as a starting point. I would highly recommend using images whenever possible. https://github.com/Hackathon-Hackers/book-of-hacks/blob/master/tutorials/Portable%20Shower.md
 
+Once you are finished writing your tutorial, link it in the SUMMARY.md file so that it snows up in the Gitbook.
+
 # Contributing
 Just create a markdown file with the title of you hack and submit a pull request.
